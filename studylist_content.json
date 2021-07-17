@@ -921,20 +921,8 @@ var data = '{'+
 			'"content": '+
 			'['+
 				'{'+
-					'"item" : "PUSH",'+
-					'"url" : ""'+
-				'},'+
-				'{'+
-					'"item" : "PULL",'+
-					'"url" : ""'+
-				'},'+
-				'{'+
-					'"item" : "BRANCH",'+
-					'"url" : ""'+
-				'},'+
-				'{'+
-					'"item" : "MERAGE",'+
-					'"url" : ""'+
+					'"item" : "My Note",'+
+					'"url" : "https://github.com/RaysBox/GithubCommand/blob/master/Note.txt"'+
 				'}'+
 			']'+
 		'},'+
