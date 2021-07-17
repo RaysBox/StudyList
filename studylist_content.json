@@ -1,0 +1,1284 @@
+var data = '{'+
+	'"main" : "完整自學技能清單",'+
+	'"title" : '+
+	'['+
+
+		'{'+
+			'"subtitle" : "CSS", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "基礎教學",'+
+					'"url" : "https://www.w3school.com.cn/css/index.asp"'+
+				'},'+
+				'{'+
+					'"item" : "匯入CSS的方法1",'+
+					'"url" : "https://medium.com/@small2883/css-%E7%9A%84%E4%B8%89%E7%A8%AE%E5%BC%95%E5%85%A5%E6%96%B9%E5%BC%8F%E6%9C%89%E5%93%AA%E4%BA%9B-58dc7570bb9c"'+
+				'},'+
+				'{'+
+					'"item" : "匯入CSS的方法2",'+
+					'"url" : "https://ithelp.ithome.com.tw/articles/10083977"'+
+				'},'+
+				'{'+
+					'"item" : "顏色相關",'+
+					'"url" : "https://www.w3school.com.cn/css/css_colors_rgb.asp"'+
+				'},'+
+				'{'+
+					'"item" : "字體大小單位vw<div class=\'indent\'>註：可隨視窗調整大小</div>",'+
+					'"url" : "https://www.w3school.com.cn/css/css_font_size.asp"'+
+				'},'+
+				'{'+
+					'"item" : "a標籤的變化",'+
+					'"url" : "https://www.w3school.com.cn/css/css_link.asp"'+
+				'},'+
+				'{'+
+					'"item" : "物件顯示與隱藏",'+
+					'"url" : "https://www.w3school.com.cn/css/css_display_visibility.asp"'+
+				'},'+
+				'{'+
+					'"item" : "響應式的表單<div class=\'indent\'>滑鼠改變表格背景色</div><div class=\'indent\'>斑馬紋表單背景色</div>",'+
+					'"url" : "https://www.w3school.com.cn/css/css_table.asp"'+
+				'},'+
+				'{'+
+					'"item" : "FIXED屬性<div class=\'indent\'>註：適合作為廣告或跑馬燈的位置固定的設定</div>",'+
+					'"url" : "https://www.w3school.com.cn/css/css_positioning.asp"'+
+				'},'+
+				'{'+
+					'"item" : "SITCKY屬性<div class=\'indent\'>註：當畫面往下滑時，它會將物件黏在頂端</div><div class=\'indent\'>Z-INDEX屬性</div><div class=\'indent\'>註：重疊屬性</div>",'+
+					'"url" : "https://www.w3school.com.cn/css/css_positioning.asp"'+
+				'},'+
+				'{'+
+					'"item" : "OVERFLOW屬性<div class=\'indent\'>註：在區域內加滾軸</div>",'+
+					'"url" : "https://www.w3school.com.cn/css/css_overflow.asp"'+
+				'},'+
+				'{'+
+					'"item" : "FLOAT屬性<div class=\'indent\'>註：適合用來製作頁籤TAB</div>",'+
+					'"url" : "https://www.w3school.com.cn/css/css_float_examples.asp"'+
+				'},'+
+				'{'+
+					'"item" : "垂直頁籤TAB的做法",'+
+					'"url" : "https://www.w3school.com.cn/css/css_navbar_vertical.asp"'+
+				'},'+
+				'{'+
+					'"item" : "水平頁籤TAB的做法",'+
+					'"url" : "https://www.w3school.com.cn/css/css_navbar_horizontal.asp"'+
+				'},'+
+				'{'+
+					'"item" : "下拉式選單的做法<div class=\'indent\'>註：也適合製作商品圖片導覽</div>",'+
+					'"url" : "https://www.w3school.com.cn/css/css_dropdowns.asp"'+
+				'},'+
+				'{'+
+					'"item" : "INPUT<div class=\'indent\'>下拉式選單</div>",'+
+					'"url" : "https://www.w3school.com.cn/css/css_form.asp"'+
+				'},'+
+				'{'+
+					'"item" : "CSS組合器的變化小技巧",'+
+					'"url" : "https://www.w3school.com.cn/css/css_combinators.asp"'+
+				'},'+
+				'{'+
+					'"item" : "偽類<div class=\'indent\'>註：適合撰寫各種活動事件</div>",'+
+					'"url" : "https://www.w3school.com.cn/css/css_pseudo_classes.asp"'+
+				'},'+
+				'{'+
+					'"item" : "偽元素<div class=\'indent\'>註：同樣適合撰寫各種活動事件</div>",'+
+					'"url" : "https://www.w3school.com.cn/css/css_pseudo_elements.asp"'+
+				'},'+
+				'{'+
+					'"item" : "選擇器的延伸運用<div class=\'indent\'>註：~=指令感覺適合用於模糊查詢</div>",'+
+					'"url" : "https://www.w3school.com.cn/css/css_attribute_selectors.asp"'+
+				'},'+
+				'{'+
+					'"item" : "計數器",'+
+					'"url" : "https://www.w3school.com.cn/css/css_counters.asp"'+
+				'},'+
+				'{'+
+					'"item" : "網站佈局-Layout<div class=\'indent\'>註：網站架設的框架建設</div>",'+
+					'"url" : "https://www.w3school.com.cn/css/css_website_layout.asp"'+
+				'},'+
+				'{'+
+					'"item" : "文本溢出效果<div class=\'indent\'>註：感覺適合弄跑馬燈</div>",'+
+					'"url" : "https://www.w3school.com.cn/css/css3_text_effects.asp"'+
+				'},'+
+				'{'+
+					'"item" : "2D樣式轉換<div class=\'indent\'>註：搭配JS，可以弄動畫</div>",'+
+					'"url" : "https://www.w3school.com.cn/css/css3_2dtransforms.asp"'+
+				'},'+
+				'{'+
+					'"item" : "3D樣式轉換<div class=\'indent\'>註：搭配JS，可以弄動畫</div>",'+
+					'"url" : "https://www.w3school.com.cn/css/css3_3dtransforms.asp"'+
+				'},'+
+				'{'+
+					'"item" : "轉場動畫<div class=\'indent\'>註：搭配2D或3D，可以弄動畫</div>",'+
+					'"url" : "https://www.w3school.com.cn/css/css3_transitions.asp"'+
+				'},'+
+				'{'+
+					'"item" : "動畫",'+
+					'"url" : "https://www.w3school.com.cn/css/css3_animations.asp"'+
+				'},'+
+				'{'+
+					'"item" : "提示字元",'+
+					'"url" : "https://www.w3school.com.cn/css/css_tooltip.asp"'+
+				'},'+
+				'{'+
+					'"item" : "圖片變化相關",'+
+					'"url" : "https://www.w3school.com.cn/css/css3_images.asp"'+
+				'},'+
+				'{'+
+					'"item" : "客製化按鈕設定",'+
+					'"url" : "https://www.w3school.com.cn/css/css3_buttons.asp"'+
+				'},'+
+				'{'+
+					'"item" : "變數",'+
+					'"url" : "https://www.w3school.com.cn/css/css3_variables.asp"'+
+				'},'+
+				'{'+
+					'"item" : "用JS修改CSS變數",'+
+					'"url" : "https://www.w3school.com.cn/css/css3_variables_javascript.asp"'+
+				'},'+
+				'{'+
+					'"item" : "GRID網格變化",'+
+					'"url" : "https://www.w3school.com.cn/css/css_grid_container.asp"'+
+				'},'+
+				'{'+
+					'"item" : "GRID網格子元素變化",'+
+					'"url" : "https://www.w3school.com.cn/css/css_grid_item.asp"'+
+				'},'+
+				'{'+
+					'"item" : "CSS總範例",'+
+					'"url" : "https://www.w3school.com.cn/css/css_examples.asp"'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "RWD", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "RWD應用，判斷螢幕指定寬度轉換格式",'+
+					'"url" : "https://www.w3school.com.cn/css/css3_variables_mediaqueries.asp"'+
+				'},'+
+				'{'+
+					'"item" : "FLEX屬性比傳統方法更輕易製作RWD",'+
+					'"url" : "https://www.w3school.com.cn/css/css3_flexbox.asp"'+
+				'},'+
+				'{'+
+					'"item" : "將每個物件的寬度一致化",'+
+					'"url" : "https://www.w3school.com.cn/css/css3_box-sizing.asp"'+
+				'},'+
+				'{'+
+					'"item" : "多媒體種類的判斷<div class=\'indent\'>註：目前支援筆電、手機、列印機跟閱讀機",'+
+					'"url" : "https://www.w3school.com.cn/css/css3_mediaqueries.asp"'+
+				'},'+
+				'{'+
+					'"item" : "RWD各種範例",'+
+					'"url" : "https://www.w3school.com.cn/css/css3_mediaqueries_ex.asp"'+
+				'},'+
+				'{'+
+					'"item" : "HTML5引進的RWD相關設置<div class=\'indent\'>註：這設定使RWD效果更加完善</div>",'+
+					'"url" : "https://www.w3school.com.cn/css/css_rwd_viewport.asp"'+
+				'},'+
+				'{'+
+					'"item" : "RWD設計概念教學",'+
+					'"url" : "https://www.w3school.com.cn/css/css_rwd_grid.asp"'+
+				'},'+
+				'{'+
+					'"item" : "RWD實戰運用",'+
+					'"url" : "https://www.w3school.com.cn/css/css_rwd_mediaqueries.asp"'+
+				'},'+
+				'{'+
+					'"item" : "RWD Video篇",'+
+					'"url" : "https://www.w3school.com.cn/css/css_rwd_videos.asp"'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "HTML", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "自學教程",'+
+					'"url" : "https://www.w3school.com.cn/html/html_jianjie.asp"'+
+				'},'+
+				'{'+
+					'"item" : "HR標籤可用於畫分隔線<div class=\'indent\'>註釋使用說明</div>",'+
+					'"url" : "https://www.w3school.com.cn/html/html_headings.asp"'+
+				'},'+
+				'{'+
+					'"item" : "PRE標籤會保留空格<div class=\'indent\'>註解：適合程式代碼呈現</div>",'+
+					'"url" : "https://www.w3school.com.cn/html/html_formatting.asp"'+
+				'},'+
+				'{'+
+					'"item" : "條件註釋",'+
+					'"url" : "https://www.w3school.com.cn/html/html_comments.asp"'+
+				'},'+
+				'{'+
+					'"item" : "TARGET屬性可產生新視窗<div class=\'indent\'>NAME屬性可用於定位</div>",'+
+					'"url" : "https://www.w3school.com.cn/html/html_links.asp#tips"'+
+				'},'+
+				'{'+
+					'"item" : "表格的基本屬性<div class=\'indent\'>&amp;nbsp;為空格寫法</div>",'+
+					'"url" : "https://www.w3school.com.cn/html/html_tables.asp"'+
+				'},'+
+				'{'+
+					'"item" : "ID屬性的用法",'+
+					'"url" : "https://www.w3school.com.cn/html/html_id.asp"'+
+				'},'+
+				'{'+
+					'"item" : "IFRAME屬性<div class=\'indent\'>註：子窗口的使用</div><div class=\'indent\'>註：框架弄好之後，適合各功能獨立開發</div>",'+
+					'"url" : "https://www.w3school.com.cn/html/html_iframe.asp"'+
+				'},'+
+				'{'+
+					'"item" : "文件路徑",'+
+					'"url" : "https://www.w3school.com.cn/html/html_filepaths.asp"'+
+				'},'+
+				'{'+
+					'"item" : "META標籤用法<div class=\'indent\'>轉址</div>",'+
+					'"url" : "https://www.w3school.com.cn/html/html_head.asp"'+
+				'},'+
+				'{'+
+					'"item" : "定義編碼格式與語言類型",'+
+					'"url" : "https://www.w3school.com.cn/html/html5_syntax.asp"'+
+				'},'+
+				'{'+
+					'"item" : "特殊字元列表1",'+
+					'"url" : "https://www.w3school.com.cn/html/html_entities.asp"'+
+				'},'+
+				'{'+
+					'"item" : "特殊字元列表2",'+
+					'"url" : "https://www.w3school.com.cn/html/html_symbols.asp"'+
+				'},'+
+				'{'+
+					'"item" : "顏文字列表",'+
+					'"url" : "https://www.w3school.com.cn/html/html_emoji.asp"'+
+				'},'+
+				'{'+
+					'"item" : "框架範例FRAMESET與FRAME",'+
+					'"url" : "https://finalfrank.pixnet.net/blog/post/9910705"'+
+				'},'+
+				'{'+
+					'"item" : "OBJECT標籤也可作為子框架使用<div class=\'indent\'>EMBED標籤也可作為子框架使用</div>",'+
+					'"url" : "https://www.w3school.com.cn/html/html_object.asp"'+
+				'},'+
+				'{'+
+					'"item" : "Server建置注意事項",'+
+					'"url" : "https://www.w3school.com.cn/html/html_webserver.asp"'+
+				'},'+
+				'{'+
+					'"item" : "DOCTYPE聲明的作用",'+
+					'"url" : "https://www.w3school.com.cn/html/html_doctype.asp"'+
+				'},'+
+				'{'+
+					'"item" : "基本語法總覽",'+
+					'"url" : "https://www.w3school.com.cn/html/html_quick.asp"'+
+				'},'+
+				'{'+
+					'"item" : "FORM與INPUT的範例說明1",'+
+					'"url" : "https://www.w3school.com.cn/html/html_forms.asp"'+
+				'},'+
+				'{'+
+					'"item" : "FORM的範例說明2",'+
+					'"url" : "https://www.w3school.com.cn/html/html_forms_attributes.asp"'+
+				'},'+
+				'{'+
+					'"item" : "FORM的範例說明3",'+
+					'"url" : "https://www.w3school.com.cn/html/html_form_attributes.asp"'+
+				'},'+
+				'{'+
+					'"item" : "各種輸入元件的範例說明1",'+
+					'"url" : "https://www.w3school.com.cn/html/html_form_elements.asp"'+
+				'},'+
+				'{'+
+					'"item" : "各種輸入元件的範例說明2",'+
+					'"url" : "https://www.w3school.com.cn/html/html_form_input_types.asp"'+
+				'},'+
+				'{'+
+					'"item" : "畫布說明",'+
+					'"url" : "https://www.w3school.com.cn/html/html5_canvas.asp"'+
+				'},'+
+				'{'+
+					'"item" : "語音物件範例",'+
+					'"url" : "https://www.w3school.com.cn/html/html_audio.asp"'+
+				'},'+
+				'{'+
+					'"item" : "影音物件範例",'+
+					'"url" : "https://www.w3school.com.cn/html/html_video.asp"'+
+				'},'+
+				'{'+
+					'"item" : "HTML5取得地理定位",'+
+					'"url" : "https://www.w3school.com.cn/html/html5_geolocation.asp"'+
+				'},'+
+				'{'+
+					'"item" : "物件拖曳效果",'+
+					'"url" : "https://www.w3school.com.cn/html/html5_draganddrop.asp"'+
+				'},'+
+				'{'+
+					'"item" : "Client端儲存資訊（類似Cookie）",'+
+					'"url" : "https://www.w3school.com.cn/html/html5_webstorage.asp"'+
+				'},'+
+				'{'+
+					'"item" : "應用緩存",'+
+					'"url" : "https://www.w3school.com.cn/html/html5_app_cache.asp"'+
+				'},'+
+				'{'+
+					'"item" : "Web Worker(讓JS於背景執行)",'+
+					'"url" : "https://www.w3school.com.cn/html/html5_webworkers.asp"'+
+				'},'+
+				'{'+
+					'"item" : "Server-Sent<div class=\'indent\'>註：Server可以主動傳資料給Client</div>",'+
+					'"url" : "https://www.w3school.com.cn/html/html5_serversentevents.asp"'+
+				'},'+
+				'{'+
+					'"item" : "HTML範例實作",'+
+					'"url" : "https://www.w3school.com.cn/html/html_examples.asp"'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "JavaScript", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "JS匯入",'+
+					'"url" : "https://www.w3school.com.cn/js/js_shiyong.asp"'+
+				'},'+
+				'{'+
+					'"item" : "保留字元1",'+
+					'"url" : "https://www.w3school.com.cn/js/js_statements.asp"'+
+				'},'+
+				'{'+
+					'"item" : "保留字元2",'+
+					'"url" : "https://www.w3school.com.cn/js/js_reserved.asp"'+
+				'},'+
+				'{'+
+					'"item" : "運算子1",'+
+					'"url" : "https://www.w3school.com.cn/js/js_operators.asp"'+
+				'},'+
+				'{'+
+					'"item" : "運算子2",'+
+					'"url" : "https://www.w3school.com.cn/js/js_arithmetic.asp"'+
+				'},'+
+				'{'+
+					'"item" : "NULL、空值與undefined的差異",'+
+					'"url" : "https://www.w3school.com.cn/js/js_datatypes.asp"'+
+				'},'+
+				'{'+
+					'"item" : "物件說明",'+
+					'"url" : "https://www.w3school.com.cn/js/js_objects.asp"'+
+				'},'+
+				'{'+
+					'"item" : "事件說明",'+
+					'"url" : "https://www.w3school.com.cn/js/js_events.asp"'+
+				'},'+
+				'{'+
+					'"item" : "反斜線字元說明",'+
+					'"url" : "https://www.w3school.com.cn/js/js_strings.asp"'+
+				'},'+
+				'{'+
+					'"item" : "添增物件屬性的方法",'+
+					'"url" : "https://ithelp.ithome.com.tw/articles/10218025"'+
+				'},'+
+
+				'{'+
+					'"item" : "字串處理",'+
+					'"url" : "https://www.w3school.com.cn/js/js_string_methods.asp"'+
+				'},'+
+
+				'{'+
+					'"item" : "NaN與Infinity的說明",'+
+					'"url" : "https://www.w3school.com.cn/js/js_numbers.asp"'+
+				'},'+
+
+				'{'+
+					'"item" : "數字處理",'+
+					'"url" : "https://www.w3school.com.cn/js/js_number_methods.asp"'+
+				'},'+
+				'{'+
+					'"item" : "陣列處理1",'+
+					'"url" : "https://www.w3school.com.cn/js/js_arrays.asp"'+
+				'},'+
+				'{'+
+					'"item" : "陣列處理2",'+
+					'"url" : "https://www.w3school.com.cn/js/js_array_methods.asp"'+
+				'},'+
+				'{'+
+					'"item" : "陣列排序",'+
+					'"url" : "https://www.w3school.com.cn/js/js_array_sort.asp"'+
+				'},'+
+				'{'+
+					'"item" : "陣列迭代與處理",'+
+					'"url" : "https://www.w3school.com.cn/js/js_array_iteration.asp"'+
+				'},'+
+				'{'+
+					'"item" : "日期宣告",'+
+					'"url" : "https://www.w3school.com.cn/js/js_date_formats.asp"'+
+				'},'+
+				'{'+
+					'"item" : "日期方法-取值",'+
+					'"url" : "https://www.w3school.com.cn/js/js_date_methods.asp"'+
+				'},'+
+				'{'+
+					'"item" : "日期方法-改值",'+
+					'"url" : "https://www.w3school.com.cn/js/js_date_methods_set.asp"'+
+				'},'+
+				'{'+
+					'"item" : "MATH模組的方法",'+
+					'"url" : "https://www.w3school.com.cn/js/js_math.asp"'+
+				'},'+
+				'{'+
+					'"item" : "各種FOR的寫法",'+
+					'"url" : "https://www.w3school.com.cn/js/js_loop_for.asp"'+
+				'},'+
+				'{'+
+					'"item" : "標籤範例",'+
+					'"url" : "https://www.w3school.com.cn/js/js_break.asp"'+
+				'},'+
+				'{'+
+					'"item" : "二進制與十進制互轉",'+
+					'"url" : "https://www.w3school.com.cn/js/js_bitwise.asp"'+
+				'},'+
+				'{'+
+					'"item" : "正規表示法",'+
+					'"url" : "https://www.w3school.com.cn/js/js_regexp.asp"'+
+				'},'+
+				'{'+
+					'"item" : "錯誤例外",'+
+					'"url" : "https://www.w3school.com.cn/js/js_errors.asp"'+
+				'},'+
+				'{'+
+					'"item" : "嚴格模式",'+
+					'"url" : "https://www.w3school.com.cn/js/js_strict.asp"'+
+				'},'+
+				'{'+
+					'"item" : "this的說明",'+
+					'"url" : "https://www.w3school.com.cn/js/js_this.asp"'+
+				'},'+
+				'{'+
+					'"item" : "let與var的差異",'+
+					'"url" : "https://www.w3school.com.cn/js/js_let.asp"'+
+				'},'+
+				'{'+
+					'"item" : "const的用法<div class=\'indent\'>註：幾乎等同FINAL用法</div>",'+
+					'"url" : "https://www.w3school.com.cn/js/js_const.asp"'+
+				'},'+
+				'{'+
+					'"item" : "斷點debugger用法",'+
+					'"url" : "https://www.w3school.com.cn/js/js_debugging.asp"'+
+				'},'+
+				'{'+
+					'"item" : "undefined判斷式",'+
+					'"url" : "https://www.w3school.com.cn/js/js_mistakes.asp"'+
+				'},'+
+				'{'+
+					'"item" : "各種類型的值對照ture&false",'+
+					'"url" : "https://www.w3school.com.cn/js/js_type_conversion.asp"'+
+				'},'+
+				'{'+
+					'"item" : "JS性能注意事項",'+
+					'"url" : "https://www.w3school.com.cn/js/js_performance.asp"'+
+				'},'+
+				'{'+
+					'"item" : "JSON的相關方法<div class=\'indent\'>更改物件屬性</div><div class=\'indent\'>Setter及Getter</div><div class=\'indent\'>各種針對Object的方法</div>",'+
+					'"url" : "https://www.w3school.com.cn/js/js_es5.asp"'+
+				'},'+
+				'{'+
+					'"item" : "物件的相關方法範例",'+
+					'"url" : "https://www.w3school.com.cn/js/js_object_es5.asp"'+
+				'},'+
+				'{'+
+					'"item" : "Setter及Getter詳細說明",'+
+					'"url" : "https://www.w3school.com.cn/js/js_object_accessors.asp"'+
+				'},'+
+				'{'+
+					'"item" : "箭頭函數=>{}的範例",'+
+					'"url" : "https://www.w3school.com.cn/js/js_es6.asp"'+
+				'},'+
+				'{'+
+					'"item" : "FORM的防呆與相關方法",'+
+					'"url" : "https://www.w3school.com.cn/js/js_validation.asp"'+
+				'},'+
+				'{'+
+					'"item" : "DOM資料驗證的相關方法",'+
+					'"url" : "https://www.w3school.com.cn/js/js_validation_api.asp"'+
+				'},'+
+				'{'+
+					'"item" : "給Func新增屬性及方法",'+
+					'"url" : "https://www.w3school.com.cn/js/js_object_prototypes.asp"'+
+				'},'+
+				'{'+
+					'"item" : "自調函數<div class=\'indent\'>註：不用呼叫就會自己執行一次</div>",'+
+					'"url" : "https://www.w3school.com.cn/js/js_function_definition.asp"'+
+				'},'+
+				'{'+
+					'"item" : "arguments範例",'+
+					'"url" : "https://www.w3school.com.cn/js/js_function_parameters.asp"'+
+				'},'+
+				'{'+
+					'"item" : "call範例",'+
+					'"url" : "https://www.w3school.com.cn/js/js_function_call.asp"'+
+				'},'+
+				'{'+
+					'"item" : "apply範例",'+
+					'"url" : "https://www.w3school.com.cn/js/js_function_apply.asp"'+
+				'},'+
+				'{'+
+					'"item" : "閉包<div class=\'indent\'>註：可以理解為匿名函數</div>",'+
+					'"url" : "https://www.w3school.com.cn/js/js_function_closures.asp"'+
+				'},'+
+				'{'+
+					'"item" : "DOM方法範例1",'+
+					'"url" : "https://www.w3school.com.cn/js/js_htmldom_document.asp"'+
+				'},'+
+				'{'+
+					'"item" : "DOM方法範例2<div class=\'indent\'>註：取得DOM物件</div>",'+
+					'"url" : "https://www.w3school.com.cn/js/js_htmldom_elements.asp"'+
+				'},'+
+				'{'+
+					'"item" : "DOM方法範例3<div class=\'indent\'>註：改值</div>",'+
+					'"url" : "https://www.w3school.com.cn/js/js_htmldom_html.asp"'+
+				'},'+
+				'{'+
+					'"item" : "動畫",'+
+					'"url" : "https://www.w3school.com.cn/js/js_htmldom_animate.asp"'+
+				'},'+
+				'{'+
+					'"item" : "事件",'+
+					'"url" : "https://www.w3school.com.cn/js/js_htmldom_events.asp"'+
+				'},'+
+				'{'+
+					'"item" : "事件監聽器<div class=\'indent\'>註：包含匿名函數傳值</div>",'+
+					'"url" : "https://www.w3school.com.cn/js/js_htmldom_eventlistener.asp"'+
+				'},'+
+				'{'+
+					'"item" : "節點介紹",'+
+					'"url" : "https://www.w3school.com.cn/js/js_htmldom_navigation.asp"'+
+				'},'+
+				'{'+
+					'"item" : "節點新刪修",'+
+					'"url" : "https://www.w3school.com.cn/js/js_htmldom_nodes.asp"'+
+				'},'+
+				'{'+
+					'"item" : "取得所有節點",'+
+					'"url" : "https://www.w3school.com.cn/js/js_htmldom_nodelist.asp"'+
+				'},'+
+				'{'+
+					'"item" : "Window相關方法1",'+
+					'"url" : "https://www.w3school.com.cn/js/js_window.asp"'+
+				'},'+
+				'{'+
+					'"item" : "Window相關方法2",'+
+					'"url" : "https://www.w3school.com.cn/js/js_window_screen.asp"'+
+				'},'+
+				'{'+
+					'"item" : "Window相關方法3<div class=\'indent\'>註：取得相關參數，如網域</div>",'+
+					'"url" : "https://www.w3school.com.cn/js/js_window_location.asp"'+
+				'},'+
+				'{'+
+					'"item" : "Window相關方法4<div class=\'indent\'>註：往前一頁、往下一頁</div>",'+
+					'"url" : "https://www.w3school.com.cn/js/js_window_history.asp"'+
+				'},'+
+				'{'+
+					'"item" : "Window相關方法4<div class=\'indent\'>註：取得瀏覽器本身相關資訊</div>",'+
+					'"url" : "https://www.w3school.com.cn/js/js_window_navigator.asp"'+
+				'},'+
+				'{'+
+					'"item" : "彈跳視窗",'+
+					'"url" : "https://www.w3school.com.cn/js/js_popup.asp"'+
+				'},'+
+				'{'+
+					'"item" : "Timer事件",'+
+					'"url" : "https://www.w3school.com.cn/js/js_timing.asp"'+
+				'},'+
+				'{'+
+					'"item" : "Cookie",'+
+					'"url" : "https://www.w3school.com.cn/js/js_cookies.asp"'+
+				'},'+
+				'{'+
+					'"item" : "JSON發送接收跟本地儲存範例",'+
+					'"url" : "https://www.w3school.com.cn/js/js_json_intro.asp"'+
+				'},'+
+				'{'+
+					'"item" : "從Server取得JSON的方式",'+
+					'"url" : "https://www.w3school.com.cn/js/js_json_parse.asp"'+
+				'},'+
+				'{'+
+					'"item" : "範例列表",'+
+					'"url" : "https://www.w3school.com.cn/js/js_examples.asp"'+
+				'},'+
+				'{'+
+					'"item" : "Client端下載檔案1",'+
+					'"url" : "https://www.delftstack.com/zh-tw/howto/javascript/javascript-download/"'+
+				'},'+
+				'{'+
+					'"item" : "Client端下載檔案2",'+
+					'"url" : "https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/177130/"'+
+				'},'+
+				'{'+
+					'"item" : "下載檔案本地實作範例",'+
+					'"url" : "file:///Users/ray/Documents/JS%20Code/DownloadFileExample/testDownloadFunc.html"'+
+				'},'+
+				'{'+
+					'"item" : "上傳檔案",'+
+					'"url" : "https://www.w3schools.com/tags/att_input_type_file.asp"'+
+				'},'+
+				'{'+
+					'"item" : "上傳檔案-包含php後台撰寫",'+
+					'"url" : "https://ithelp.ithome.com.tw/articles/10155912"'+
+				'},'+
+				'{'+
+					'"item" : "上傳檔案-包含jsp後台撰寫",'+
+					'"url" : "http://www.hechaku.com/jsp/JSPshangchuanwenjian.html"'+
+				'},'+
+				'{'+
+					'"item" : "上傳檔案-包含asp.net後台撰寫",'+
+					'"url" : "https://www.tw511.com/14/126/3718.html"'+
+				'},'+
+				'{'+
+					'"item" : "讀取本地檔案",'+
+					'"url" : "https://segmentfault.com/a/1190000021436482"'+
+				'},'+
+				'{'+
+					'"item" : "讀取本地檔案實作範例",'+
+					'"url" : "file:///Users/ray/Documents/JS%20Code/ReadLoaclFileExample/readFileExample1.html"'+
+				'},'+
+				'{'+
+					'"item" : "讀取及下載本地檔案實作範例",'+
+					'"url" : "file:///Users/ray/Documents/JS%20Code/ReadLoaclFileExample/readFileAndDownloadExample.html"'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "jQuery", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "取得DOM的用法",'+
+					'"url" : "https://www.w3school.com.cn/js/js_jquery_selectors.asp"'+
+				'},'+
+				'{'+
+					'"item" : "取值改值",'+
+					'"url" : "https://www.w3school.com.cn/js/js_jquery_elements.asp"'+
+				'},'+
+				'{'+
+					'"item" : "改CSS",'+
+					'"url" : "https://www.w3school.com.cn/js/js_jquery_css.asp"'+
+				'},'+
+				'{'+
+					'"item" : "DOM相關方法",'+
+					'"url" : "https://www.w3school.com.cn/js/js_jquery_dom.asp"'+
+				'},'+
+				'{'+
+					'"item" : "選擇器的呼叫",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_selectors.asp"'+
+				'},'+
+				'{'+
+					'"item" : "事件",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_events.asp"'+
+				'},'+
+				'{'+
+					'"item" : "隱藏與顯示效果",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_hide_show.asp"'+
+				'},'+
+				'{'+
+					'"item" : "淡入淡出",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_fade.asp"'+
+				'},'+
+				'{'+
+					'"item" : "滑動特效",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_slide.asp"'+
+				'},'+
+				'{'+
+					'"item" : "動畫",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_animate.asp"'+
+				'},'+
+				'{'+
+					'"item" : "停止動畫",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_stop.asp"'+
+				'},'+
+				'{'+
+					'"item" : "Callback用法",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_callback.asp"'+
+				'},'+
+				'{'+
+					'"item" : "Chaining技術可連續執行動畫",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_chaining.asp"'+
+				'},'+
+				'{'+
+					'"item" : "獲取內容及屬性",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_dom_get.asp"'+
+				'},'+
+				'{'+
+					'"item" : "更改內容及屬性",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_dom_set.asp"'+
+				'},'+
+				'{'+
+					'"item" : "添增DOM及內容",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_dom_add.asp"'+
+				'},'+
+				'{'+
+					'"item" : "刪除DOM及內容",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_dom_remove.asp"'+
+				'},'+
+				'{'+
+					'"item" : "添加及修改CSS1",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_css_classes.asp"'+
+				'},'+
+				'{'+
+					'"item" : "添加及修改CSS2",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_css.asp"'+
+				'},'+
+				'{'+
+					'"item" : "顯示及調整寬高",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_dimensions.asp"'+
+				'},'+
+				'{'+
+					'"item" : "尋找父元素",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_traversing_ancestors.asp"'+
+				'},'+
+				'{'+
+					'"item" : "尋找子元素",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_traversing_descendants.asp"'+
+				'},'+
+				'{'+
+					'"item" : "尋找同階層的元素",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_traversing_siblings.asp"'+
+				'},'+
+				'{'+
+					'"item" : "取得其他DOM的方法",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_traversing_filtering.asp"'+
+				'},'+
+				'{'+
+					'"item" : "AJAX加載1",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_ajax_load.asp"'+
+				'},'+
+				'{'+
+					'"item" : "AJAX加載2/使用GET/POST",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_ajax_get_post.asp"'+
+				'},'+
+				'{'+
+					'"item" : "更換呼叫jQuery的$符號",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_noconflict.asp"'+
+				'},'+
+				'{'+
+					'"item" : "jQuery總範例",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_examples.asp"'+
+				'},'+
+				'{'+
+					'"item" : "",'+
+					'"url" : ""'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : ".NET", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "ASP.NET及.NET概論",'+
+					'"url" : "https://www.piece2ec.com.tw/news.asp?id=2069&Class_ID=2"'+
+				'},'+
+				'{'+
+					'"item" : "",'+
+					'"url" : ""'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "ASP.NET", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "環境建置",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "基本語法",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "輸入元件實作",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "頁面傳接值",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "圖表顯示",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "跟資料庫串接",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "讀存檔",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "讀存圖",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "讀取CSV",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "Realtime顯示",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "畫面切割",'+
+					'"url" : ""'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "VBScript", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "環境建置",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "基本語法",'+
+					'"url" : ""'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "AJAX", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "AJAX運作概念",'+
+					'"url" : "https://www.w3school.com.cn/js/js_ajax_intro.asp"'+
+				'},'+
+				'{'+
+					'"item" : "發出Request，並取得Response",'+
+					'"url" : "https://www.w3school.com.cn/js/js_ajax_http.asp"'+
+				'},'+
+				'{'+
+					'"item" : "發出Request POST/GET詳細說明",'+
+					'"url" : "https://www.w3school.com.cn/js/js_ajax_http_send.asp"'+
+				'},'+
+				'{'+
+					'"item" : "取得Response詳細說明",'+
+					'"url" : "https://www.w3school.com.cn/js/js_ajax_http_response.asp"'+
+				'},'+
+				'{'+
+					'"item" : "ASP範例",'+
+					'"url" : "https://www.w3school.com.cn/js/js_ajax_asp.asp"'+
+				'},'+
+				'{'+
+					'"item" : "PHP DB範例",'+
+					'"url" : "https://www.w3school.com.cn/js/js_ajax_database.asp"'+
+				'},'+
+				'{'+
+					'"item" : "XML格式範例",'+
+					'"url" : "https://www.w3school.com.cn/js/js_ajax_applications.asp"'+
+				'},'+
+				'{'+
+					'"item" : "範例列表",'+
+					'"url" : "https://www.w3school.com.cn/js/js_ajax_examples.asp"'+
+				'},'+
+				'{'+
+					'"item" : "以jQuery使用AJAX加載1",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_ajax_load.asp"'+
+				'},'+
+				'{'+
+					'"item" : "以jQuery使用AJAX加載2/使用GET/POST",'+
+					'"url" : "https://www.w3school.com.cn/jquery/jquery_ajax_get_post.asp"'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "Regex", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "基本語法",'+
+					'"url" : "https://www.fooish.com/regex-regular-expression/"'+
+				'},'+
+				'{'+
+					'"item" : "JS上的應用",'+
+					'"url" : "https://www.w3school.com.cn/js/js_regexp.asp"'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "Git", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "PUSH",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "PULL",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "BRANCH",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "MERAGE",'+
+					'"url" : ""'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "Python", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "環境建置",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "基本語法",'+
+					'"url" : "http://yltang.net/tutorial/python/0/"'+
+				'},'+
+				'{'+
+					'"item" : "多執行緒",'+
+					'"url" : "https://www.learncodewithmike.com/2020/11/multithreading-with-python-web-scraping.html"'+
+				'},'+
+				'{'+
+					'"item" : "爬蟲 - Selenium入門",'+
+					'"url" : "https://medium.com/seaniap/%E7%94%A8python%E6%8E%A7%E5%88%B6chrome%E7%80%8F%E8%A6%BD%E5%99%A8-selenium%E5%88%9D%E9%AB%94%E9%A9%97-732929668ce3"'+
+				'},'+
+				'{'+
+					'"item" : "爬蟲 - 下載圖片",'+
+					'"url" : "https://www.learncodewithmike.com/2020/09/download-images-using-python.html"'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "SEO", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "Blogger搜尋說明",'+
+					'"url" : "https://www.contenthacker.today/2018/02/enable-search-description-blogger.html"'+
+				'},'+
+				'{'+
+					'"item" : "META標籤TITLE標籤",'+
+					'"url" : "https://www.w3school.com.cn/html/html_head.asp"'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "AI", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "基礎入門",'+
+					'"url" : "https://www.w3school.com.cn/python/python_ml_getting_started.asp"'+
+				'},'+
+				'{'+
+					'"item" : "機械學習",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "深度學習",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "ML相關資料",'+
+					'"url" : "https://docs.microsoft.com/zh-tw/dotnet/machine-learning/resources/tasks"'+
+				'}'+
+				
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "Tableau", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "Tableau免費版載點",'+
+					'"url" : "https://public.tableau.com/zh-tw/s/download"'+
+				'},'+
+				'{'+
+					'"item" : "入門操作說明",'+
+					'"url" : "https://www.youtube.com/watch?v=xn6Txs7b6iM"'+
+				'},'+
+				'{'+
+					'"item" : "計算式使用說明",'+
+					'"url" : "https://www.youtube.com/watch?v=D9sbUbv7N_Q"'+
+				'},'+
+				'{'+
+					'"item" : "只保留感興趣資料的功能<div class=\'indent\'>資料分析技巧</div>",'+
+					'"url" : "https://www.youtube.com/watch?v=5kCwy04AOZU"'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "PLC", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "從PLC擷取資料",'+
+					'"url" : ""'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "CI Sever", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "從CI擷取資料",'+
+					'"url" : ""'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "Other", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "用Google Drive架站",'+
+					'"url" : "http://blog.e-happy.com.tw/%E7%B6%B2%E7%AB%99%E6%9E%B6%E8%A8%AD-%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%8A%8A%E7%B6%B2%E7%AB%99%E6%9E%B6%E8%A8%AD%E5%88%B0-google-drive-%E9%9B%B2%E7%AB%AF%E7%A9%BA%E9%96%93%E4%B8%8A/"'+
+				'},'+
+				'{'+
+					'"item" : "用Google Apps Script架Server",'+
+					'"url" : "https://www.oxxostudio.tw/articles/201805/backend-apps-script.html"'+
+				'}'+
+				
+			']'+
+		'},'+
+
+
+		'{'+
+			'"subtitle" : "國文", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "",'+
+					'"url" : ""'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "英文", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "",'+
+					'"url" : ""'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "計算機原理", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "進制轉換",'+
+					'"url" : "https://www.footmark.info/introduction-to-computer/digital-system-conversion/"'+
+				'},'+
+				'{'+
+					'"item" : "數位邏輯",'+
+					'"url" : "http://163.28.10.78/content/vocation/control/tp_nh/control/tp_nh/logic/index.htm"'+
+				'},'+
+				'{'+
+					'"item" : "CPU機器週期",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "計算機組織結構",'+
+					'"url" : ""'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "RAID", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "RAID概論",'+
+					'"url" : "https://zh.wikipedia.org/wiki/RAID"'+
+				'},'+
+				'{'+
+					'"item" : "RAID進階介紹1",'+
+					'"url" : "https://www.linwei.com.tw/forum-detail/45/"'+
+				'},'+
+				'{'+
+					'"item" : "RAID進階介紹2",'+
+					'"url" : "https://mitblog.pixnet.net/blog/post/33900472"'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "網路概論", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "網路架構",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "通訊協定",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "網路應用",'+
+					'"url" : ""'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "資訊管理", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "科技報橘",'+
+					'"url" : "https://buzzorange.com/techorange/"'+
+				'},'+
+				'{'+
+					'"item" : "雲端運算",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "資訊管理與資通安全",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "資通安全",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "高考函授的[資通網路]",'+
+					'"url" : ""'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "程式設計", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "系統分析",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "使用案例圖",'+
+					'"url" : ""'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "資料結構", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "演算法與資料結構",'+
+					'"url" : "http://alrightchiu.github.io/SecondRound/mu-lu-yan-suan-fa-yu-zi-liao-jie-gou.html"'+
+				'},'+
+				'{'+
+					'"item" : "陣列",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "堆疊佇列",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "樹狀結構",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "圖形結構",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "排序",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "搜尋",'+
+					'"url" : ""'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "資料庫", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "資料庫概念",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "關聯式資料庫",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "SQL語法",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "資料庫環境之恢復與同步控制",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "實體與資料對應方式",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "物件導向資料庫",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "ERD",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "1NF-3NF轉換",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "系統專案管理",'+
+					'"url" : ""'+
+				'}'+
+			']'+
+		'},'+
+
+		'{'+
+			'"subtitle" : "國營聯招考古題", '+
+			'"content": '+
+			'['+
+				'{'+
+					'"item" : "",'+
+					'"url" : ""'+
+				'}'+
+			']'+
+		'}'+
+	']'+
+'}';

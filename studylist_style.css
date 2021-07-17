@@ -1,0 +1,46 @@
+/* 每個欄位的佔比 */
+.tab_td_style {
+	width: 19.5%;
+}
+/* 大標題 */
+.main_title {
+	text-align: center;
+	font-size: xx-large;
+	font-weight: bold;
+}
+/* 小標題 */
+.pgm_lang_title {
+	font-size: x-large;
+	font-weight: bold;
+}
+/* 列表內容 */
+.list_item {
+	vertical-align: top;
+}
+/* 編框 */
+.border_style {
+	border-bottom: solid;
+	border-color: #AAAAAA;
+}
+/* 滑鼠飄移處 */
+.border_style:hover {
+	border-bottom: solid;
+	border-color: #77FFFF;
+}
+/* 滑鼠按下 */
+.border_style:active {
+	border-bottom: solid;
+	border-color: #77DDDD;
+}
+/* 縮排 */
+.indent {
+	text-indent: 1em;
+}
+/* Done! */
+.done {
+	background-color: #EFEFEF;
+}
+/* Done! 滑鼠飄移處 */
+.done:hover {
+	background-color: #DFFFFF;
+}
