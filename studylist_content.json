@@ -923,6 +923,10 @@ var data = '{'+
 				'{'+
 					'"item" : "My Note",'+
 					'"url" : "https://github.com/RaysBox/GithubCommand/blob/master/Note.txt"'+
+				'},'+
+				'{'+
+					'"item" : "調用Github上css跟js的方法",'+
+					'"url" : "https://blog.csdn.net/qq_27517377/article/details/86687289"'+
 				'}'+
 			']'+
 		'},'+
