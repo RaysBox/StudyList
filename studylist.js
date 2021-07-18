@@ -10,7 +10,7 @@ window.onload = function(){
 function init() {
 	var jdata = JSON.parse(data.toString());
 
-	done = ["CSS", "HTML", "RWD", "Tableau", "JavaScript", "jQuery"];
+	done = ["CSS", "HTML", "RWD", "Tableau", "JavaScript", "jQuery", "Python", "Git"];
 	cols = 5;
 	total = jdata.title.length;
 	rows = parseInt((total-1) / cols) + 1;

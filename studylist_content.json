@@ -965,6 +965,14 @@ var data = '{'+
 				'{'+
 					'"item" : "META標籤TITLE標籤",'+
 					'"url" : "https://www.w3school.com.cn/html/html_head.asp"'+
+				'},'+
+				'{'+
+					'"item" : "SEO的基本方法1",'+
+					'"url" : "https://www.wfublog.com/2016/01/google-search-result-faq.html"'+
+				'},'+
+				'{'+
+					'"item" : "SEO的基本方法2",'+
+					'"url" : "https://www.wfublog.com/2016/04/blogger-seo-step-by-step.html#section2"'+
 				'}'+
 			']'+
 		'},'+
