@@ -1061,6 +1061,10 @@ var data = '{'+
 				'{'+
 					'"item" : "用Google Apps Script架Server",'+
 					'"url" : "https://www.oxxostudio.tw/articles/201805/backend-apps-script.html"'+
+				'},'+
+				'{'+
+					'"item" : "在Google Apps Script調用CSS的方法",'+
+					'"url" : "http://white5168.blogspot.com/2018/04/google-apps-script-17-google.html#.YPUvMRMzaYU"'+
 				'}'+
 				
 			']'+
@@ -1173,6 +1177,10 @@ var data = '{'+
 				'{'+
 					'"item" : "高考函授的[資通網路]",'+
 					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "資訊系統專案開發與管理",'+
+					'"url" : "http://u.camdemy.com/sysdata/doc/f/fffd357af0605e68/pdf.pdf"'+
 				'}'+
 			']'+
 		'},'+
@@ -1182,11 +1190,23 @@ var data = '{'+
 			'"content": '+
 			'['+
 				'{'+
-					'"item" : "系統分析",'+
-					'"url" : ""'+
+					'"item" : "系統開發與分析基礎知識",'+
+					'"url" : "http://sasd.klab.tw/teach/all"'+
 				'},'+
 				'{'+
 					'"item" : "使用案例圖",'+
+					'"url" : "https://rileylin91.github.io/2020/07/08/UML-1-Use-Case-Diagram/"'+
+				'},'+
+				'{'+
+					'"item" : "類別關聯圖",'+
+					'"url" : "https://spicyboyd.blogspot.com/2018/07/umlclass-diagram-relationships.html"'+
+				'},'+
+				'{'+
+					'"item" : "C語言",'+
+					'"url" : ""'+
+				'},'+
+				'{'+
+					'"item" : "Java",'+
 					'"url" : ""'+
 				'}'+
 			']'+
@@ -1199,30 +1219,6 @@ var data = '{'+
 				'{'+
 					'"item" : "演算法與資料結構",'+
 					'"url" : "http://alrightchiu.github.io/SecondRound/mu-lu-yan-suan-fa-yu-zi-liao-jie-gou.html"'+
-				'},'+
-				'{'+
-					'"item" : "陣列",'+
-					'"url" : ""'+
-				'},'+
-				'{'+
-					'"item" : "堆疊佇列",'+
-					'"url" : ""'+
-				'},'+
-				'{'+
-					'"item" : "樹狀結構",'+
-					'"url" : ""'+
-				'},'+
-				'{'+
-					'"item" : "圖形結構",'+
-					'"url" : ""'+
-				'},'+
-				'{'+
-					'"item" : "排序",'+
-					'"url" : ""'+
-				'},'+
-				'{'+
-					'"item" : "搜尋",'+
-					'"url" : ""'+
 				'}'+
 			']'+
 		'},'+
@@ -1232,40 +1228,40 @@ var data = '{'+
 			'"content": '+
 			'['+
 				'{'+
-					'"item" : "資料庫概念",'+
-					'"url" : ""'+
+					'"item" : "清華大學資料庫系統概論",'+
+					'"url" : "https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=257&"'+
 				'},'+
 				'{'+
-					'"item" : "關聯式資料庫",'+
-					'"url" : ""'+
+					'"item" : "SQL語法(這裡涵蓋所有實作)",'+
+					'"url" : "https://www.finereport.com/tw/data-analysis/sql-3.html"'+
 				'},'+
 				'{'+
-					'"item" : "SQL語法",'+
-					'"url" : ""'+
+					'"item" : "關聯式資料庫的定義",'+
+					'"url" : "https://aws.amazon.com/tw/relational-database/"'+
 				'},'+
 				'{'+
-					'"item" : "資料庫環境之恢復與同步控制",'+
-					'"url" : ""'+
+					'"item" : "Deadlock",'+
+					'"url" : "https://ithelp.ithome.com.tw/articles/10229583"'+
 				'},'+
 				'{'+
-					'"item" : "實體與資料對應方式",'+
-					'"url" : ""'+
+					'"item" : "資料庫系統管理",'+
+					'"url" : "http://debussy.im.nuu.edu.tw/sjchen/Database/Final/Ch10.pdf"'+
 				'},'+
 				'{'+
-					'"item" : "物件導向資料庫",'+
-					'"url" : ""'+
+					'"item" : "物件導向資料庫與關聯式資料庫的差異",'+
+					'"url" : "https://ithelp.ithome.com.tw/articles/10203764"'+
 				'},'+
 				'{'+
-					'"item" : "ERD",'+
-					'"url" : ""'+
+					'"item" : "物件導向資料庫與關聯式資料庫的差異",'+
+					'"url" : "http://120.105.184.250/lwcheng/Kid51/kidpps/Kid51_CHAP13.pdf"'+
 				'},'+
 				'{'+
-					'"item" : "1NF-3NF轉換",'+
-					'"url" : ""'+
+					'"item" : "ERD的繪製方法",'+
+					'"url" : "https://medium.com/pierceshih/%E7%AD%86%E8%A8%98-%E5%AF%A6%E9%AB%94%E9%97%9C%E8%81%AF%E5%9C%96-87c3ecbc5ff0"'+
 				'},'+
 				'{'+
-					'"item" : "系統專案管理",'+
-					'"url" : ""'+
+					'"item" : "正規化",'+
+					'"url" : "http://cc.cust.edu.tw/~ccchen/doc/db_04.pdf"'+
 				'}'+
 			']'+
 		'},'+
@@ -1275,8 +1271,8 @@ var data = '{'+
 			'"content": '+
 			'['+
 				'{'+
-					'"item" : "",'+
-					'"url" : ""'+
+					'"item" : "考古題",'+
+					'"url" : "https://www.taipower.com.tw/TC/download.aspx?mid=261"'+
 				'}'+
 			']'+
 		'}'+
