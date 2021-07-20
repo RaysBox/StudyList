@@ -1203,11 +1203,19 @@ var data = '{'+
 				'},'+
 				'{'+
 					'"item" : "C語言",'+
-					'"url" : ""'+
+					'"url" : "https://blog.xuite.net/ysesst9543/blog/379415496"'+
 				'},'+
 				'{'+
-					'"item" : "Java",'+
-					'"url" : ""'+
+					'"item" : "Java相關技能1",'+
+					'"url" : "https://www.uj5u.com/ruanti/274105.html"'+
+				'},'+
+				'{'+
+					'"item" : "Java相關技能2",'+
+					'"url" : "https://github.com/AobingJava/JavaFamily"'+
+				'},'+
+				'{'+
+					'"item" : "Java自學相關網站",'+
+					'"url" : "https://bearask.com/zh-tw/tech/203279.html"'+
 				'}'+
 			']'+
 		'},'+
