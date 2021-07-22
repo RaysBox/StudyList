@@ -11,7 +11,8 @@ function init() {
 	var jdata = JSON.parse(data.toString());
 
 	done = ["CSS", "HTML", "RWD", "Tableau", "JavaScript", "jQuery", "Python", "Git",
-			"程式設計", "資料結構", "國營聯招考古題", "資料庫"];
+			"程式設計", "資料結構", "國營聯招考古題", "資料庫", "計算機原理", "RAID", "網路概論",
+			"資訊管理", "國文", "英文"];
 	cols = 5;
 	total = jdata.title.length;
 	rows = parseInt((total-1) / cols) + 1;

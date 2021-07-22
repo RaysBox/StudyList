@@ -1076,8 +1076,12 @@ var data = '{'+
 			'"content": '+
 			'['+
 				'{'+
-					'"item" : "",'+
-					'"url" : ""'+
+					'"item" : "作文撰寫考試重點1",'+
+					'"url" : "https://www.public.com.tw/article/inside/points-3"'+
+				'},'+
+				'{'+
+					'"item" : "作文撰寫考試重點2",'+
+					'"url" : "https://byone.tkb.com.tw/winner/inside?str=425032A17D3184B96E9BA7C22386288F"'+
 				'}'+
 			']'+
 		'},'+
@@ -1087,8 +1091,8 @@ var data = '{'+
 			'"content": '+
 			'['+
 				'{'+
-					'"item" : "",'+
-					'"url" : ""'+
+					'"item" : "英文考試重點",'+
+					'"url" : "https://www.public.com.tw/article/inside/points-6"'+
 				'}'+
 			']'+
 		'},'+
@@ -1097,6 +1101,10 @@ var data = '{'+
 			'"subtitle" : "計算機原理", '+
 			'"content": '+
 			'['+
+				'{'+
+					'"item" : "計算機概論考試重點",'+
+					'"url" : "https://www.public.com.tw/article/inside/points-162"'+
+				'},'+
 				'{'+
 					'"item" : "進制轉換",'+
 					'"url" : "https://www.footmark.info/introduction-to-computer/digital-system-conversion/"'+
@@ -1107,11 +1115,19 @@ var data = '{'+
 				'},'+
 				'{'+
 					'"item" : "CPU機器週期",'+
-					'"url" : ""'+
+					'"url" : "https://wiki.mbalib.com/zh-tw/%E6%9C%BA%E5%99%A8%E5%91%A8%E6%9C%9F"'+
+				'},'+
+				'{'+
+					'"item" : "計算機基礎概論",'+
+					'"url" : "http://pisces.ck.tp.edu.tw/~peng/index.php?action=showfile&file=f00242a13a3dd38047d6f29bb81be63c8a53679bf"'+
+				'},'+
+				'{'+
+					'"item" : "鳥哥的私房菜-計算機基礎概論",'+
+					'"url" : "http://linux.vbird.org/linux_basic/0105computers.php"'+
 				'},'+
 				'{'+
 					'"item" : "計算機組織結構",'+
-					'"url" : ""'+
+					'"url" : "https://www.itread01.com/content/1547445241.html"'+
 				'}'+
 			']'+
 		'},'+
@@ -1140,16 +1156,12 @@ var data = '{'+
 			'"content": '+
 			'['+
 				'{'+
-					'"item" : "網路架構",'+
-					'"url" : ""'+
+					'"item" : "資通網路考試重點",'+
+					'"url" : "https://www.public.com.tw/article/inside/points-67"'+
 				'},'+
 				'{'+
-					'"item" : "通訊協定",'+
-					'"url" : ""'+
-				'},'+
-				'{'+
-					'"item" : "網路應用",'+
-					'"url" : ""'+
+					'"item" : "基礎網路概念",'+
+					'"url" : "http://linux.vbird.org/linux_server/0110network_basic.php"'+
 				'}'+
 			']'+
 		'},'+
@@ -1159,16 +1171,36 @@ var data = '{'+
 			'"content": '+
 			'['+
 				'{'+
+					'"item" : "資訊管理與資通安全考試重點",'+
+					'"url" : "https://www.public.com.tw/article/inside/points-68"'+
+				'},'+
+				'{'+
+					'"item" : "資料處理考試重點",'+
+					'"url" : "https://www.public.com.tw/article/inside/points-65"'+
+				'},'+
+				'{'+
 					'"item" : "科技報橘",'+
 					'"url" : "https://buzzorange.com/techorange/"'+
 				'},'+
 				'{'+
-					'"item" : "雲端運算",'+
-					'"url" : ""'+
+					'"item" : "雲端運算1",'+
+					'"url" : "http://distance.shu.edu.tw/104cte/news/2020-1214_cloud_computing_era.html"'+
 				'},'+
 				'{'+
-					'"item" : "資訊管理與資通安全",'+
-					'"url" : ""'+
+					'"item" : "雲端運算2",'+
+					'"url" : "http://cte.web.shu.edu.tw/2020-1223_cloud_computing_2_iaas/"'+
+				'},'+
+				'{'+
+					'"item" : "雲端運算3",'+
+					'"url" : "http://distance.shu.edu.tw/104cte/news/2020-1223_cloud_computing_3_course.html"'+
+				'},'+
+				'{'+
+					'"item" : "資訊安全管理文件",'+
+					'"url" : "http://linux.vbird.org/linux_security/old/"'+
+				'},'+
+				'{'+
+					'"item" : "系統安全篇",'+
+					'"url" : "http://linux.vbird.org/linux_security/"'+
 				'},'+
 				'{'+
 					'"item" : "資通安全",'+
@@ -1189,6 +1221,14 @@ var data = '{'+
 			'"subtitle" : "程式設計", '+
 			'"content": '+
 			'['+
+				'{'+
+					'"item" : "程式設計考試重點",'+
+					'"url" : "https://www.public.com.tw/article/inside/points-63"'+
+				'},'+
+				'{'+
+					'"item" : "程式語言考試重點",'+
+					'"url" : "https://www.public.com.tw/article/inside/points-241"'+
+				'},'+
 				'{'+
 					'"item" : "系統開發與分析基礎知識",'+
 					'"url" : "http://sasd.klab.tw/teach/all"'+
@@ -1225,6 +1265,10 @@ var data = '{'+
 			'"content": '+
 			'['+
 				'{'+
+					'"item" : "資料結構考試重點",'+
+					'"url" : "https://www.public.com.tw/article/inside/points-66"'+
+				'},'+
+				'{'+
 					'"item" : "演算法與資料結構",'+
 					'"url" : "http://alrightchiu.github.io/SecondRound/mu-lu-yan-suan-fa-yu-zi-liao-jie-gou.html"'+
 				'}'+
@@ -1235,6 +1279,10 @@ var data = '{'+
 			'"subtitle" : "資料庫", '+
 			'"content": '+
 			'['+
+				'{'+
+					'"item" : "資料庫運用考試重點",'+
+					'"url" : "https://www.public.com.tw/article/inside/points-64"'+
+				'},'+
 				'{'+
 					'"item" : "清華大學資料庫系統概論",'+
 					'"url" : "https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=257&"'+
@@ -1279,8 +1327,12 @@ var data = '{'+
 			'"content": '+
 			'['+
 				'{'+
-					'"item" : "考古題",'+
+					'"item" : "考古題1",'+
 					'"url" : "https://www.taipower.com.tw/TC/download.aspx?mid=261"'+
+				'},'+
+				'{'+
+					'"item" : "考古題2",'+
+					'"url" : "https://www.public.com.tw/previousexamnew"'+
 				'}'+
 			']'+
 		'}'+
