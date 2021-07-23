@@ -1081,6 +1081,10 @@ var data = '{'+
 				'},'+
 				'{'+
 					'"item" : "作文撰寫考試重點2",'+
+					'"url" : "https://blog.xuite.net/alex7018168/twblog/323764611"'+
+				'},'+
+				'{'+
+					'"item" : "作文撰寫考試重點3",'+
 					'"url" : "https://byone.tkb.com.tw/winner/inside?str=425032A17D3184B96E9BA7C22386288F"'+
 				'}'+
 			']'+
